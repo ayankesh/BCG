@@ -11,7 +11,7 @@ import yaml
 
 
 from pyspark.sql import SparkSession
-from Functions.newTestFunc import ReadInputFile
+from functions.newTestFunc import ReadInputFile
 
 
 if __name__ == "__main__":
